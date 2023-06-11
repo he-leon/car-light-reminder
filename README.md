@@ -10,9 +10,13 @@ Total cost: 3-5€
 
 # Features
 - Buzzes based on the state of two logical 12V inputs
-- Alarm sounds when ignition is off (IGNITION_PIN LOW) and door is open (DOOR_PIN LOW) 
-- Makes a somewhat pleasant bell sound by using the [Mozzi library](https://github.com/sensorium/Mozzi) 
-# Schematics
+- Device is meant to be supplied with power when car lights are on (e.g. power input is connected to the light switch).
+- Alarm sounds when ignition is off (IGNITION_PIN LOW) and door is open (DOOR_PIN LOW).
+- The device is designed for door switches which tie the signal to GND when the door is open.
+- DOOR_PIN has a pullup resistor which ties the GPIO high when the door is closed, preventing the input from floating.
+- Makes a somewhat pleasant bell sound by using the [Mozzi library](https://github.com/sensorium/Mozzi).
+- 
+# Schematic
 ![image](https://github.com/he-leon/car-light-reminder/assets/22372029/e9d1a0a5-5efc-4244-811b-d9ff3231bb5a)
 
 # Possible Issues
