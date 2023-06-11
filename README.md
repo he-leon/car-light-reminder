@@ -1,1 +1,17 @@
-# car-light-reminder
+# Car Light Reminder
+This project demonstrates how to create a simple DIY Car Light Turn Off Reminder using an Arduino board and scrap parts. The reminder helps prevent leaving the car lights on and draining the battery. 
+# Main Components
+- Arduino Pro Mini
+- Mini-360 DC-DC Adjustable Buck Converter
+- Small speaker
+- A few resistors
+# Features
+- Buzzes based on the state of two logical 12V inputs
+- Alarm sounds when ignition is off (IGNITION_PIN LOW) and door is open (DOOR_PIN LOW) 
+- Makes a somewhat pleasant bell sound by using the [Mozzi library](https://github.com/sensorium/Mozzi) 
+# Schematics
+TODO
+# Example build
+<img src="https://github.com/he-leon/car-light-reminder/assets/22372029/8f4fd831-1296-47d2-a73b-7d6a12056398" width=20% height=20%>
+<img src="https://github.com/he-leon/car-light-reminder/assets/22372029/af8670e5-908d-421c-9148-4a8423b006d2" width=20% height=20%>
+<img src="https://github.com/he-leon/car-light-reminder/assets/22372029/1686e6d1-49d5-4839-aab4-7c8841654158" width=20% height=20%>
