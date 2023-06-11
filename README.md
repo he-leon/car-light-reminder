@@ -10,7 +10,8 @@ This project demonstrates how to create a simple DIY Car Light Turn Off Reminder
 - Alarm sounds when ignition is off (IGNITION_PIN LOW) and door is open (DOOR_PIN LOW) 
 - Makes a somewhat pleasant bell sound by using the [Mozzi library](https://github.com/sensorium/Mozzi) 
 # Schematics
-TODO
+![image](https://github.com/he-leon/car-light-reminder/assets/22372029/62b652b6-f516-4137-8860-fd522167d3d2)
+
 # Example build
 The following pictures show a cheap quick and dirty build using a scrap "Ricotta" cup as a case. A speaker salvaged from an old PC is used. The circuit was built on a stripboard. 
 
