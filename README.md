@@ -12,6 +12,11 @@ This project demonstrates how to create a simple DIY Car Light Turn Off Reminder
 # Schematics
 ![image](https://github.com/he-leon/car-light-reminder/assets/22372029/e9d1a0a5-5efc-4244-811b-d9ff3231bb5a)
 
+# Possible Issues
+- Voltage dividers are chosen for 3.3V logic. Values might not working when using an Arduino with 5V.
+- Current draw is about 25mA@12V (0.3W). Choosing higher resistor values might reduce this.
+- No protection against voltage Spikes from alternator, ignition coil, etc. -> Expected lifetime/robustness unknown.
+
 # Example build
 The following pictures show a cheap quick and dirty build using a scrap "Ricotta" cup as a case. A speaker salvaged from an old PC is used. The circuit was built on a stripboard. 
 
