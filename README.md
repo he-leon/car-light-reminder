@@ -20,7 +20,7 @@ Total cost: 3-5€
 ![image](https://github.com/he-leon/car-light-reminder/assets/22372029/e9d1a0a5-5efc-4244-811b-d9ff3231bb5a)
 
 # Possible Issues
-- Voltage dividers are chosen for 3.3V logic. Values might not working when using an Arduino with 5V.
+- Voltage dividers are chosen for 3.3V logic. High/Low GPIO states might not be recoginized correctly when using an Arduino with 5V.
 - Current draw is about 25mA@12V (0.3W). Choosing higher resistor values might reduce this.
 - No protection against voltage Spikes from alternator, ignition coil, etc. -> Expected lifetime/robustness in automotive environment unknown.
 
