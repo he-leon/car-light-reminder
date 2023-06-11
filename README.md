@@ -1,5 +1,5 @@
 # Car Light Reminder
-This project demonstrates how to create a simple DIY Car Light Turn Off Reminder using an Arduino board and scrap parts. The reminder helps prevent leaving the car lights on and draining the battery. The device can be installed behind the dashboard and is meant to be used in older/classic cars, which do not have a builtin alarm.
+This project demonstrates how to create a simple DIY Car Light Turn Off Reminder using an Arduino Pro Mini, a DC-DC Converter and scrap parts. The reminder helps prevent leaving the car lights on and draining the battery. The device can be installed behind the dashboard and is meant to be used in older/classic cars, which do not have a builtin alarm.
 # Main Components
 - Arduino Pro Mini
 - Mini-360 DC-DC Adjustable Buck Converter
@@ -12,7 +12,7 @@ This project demonstrates how to create a simple DIY Car Light Turn Off Reminder
 # Schematics
 TODO
 # Example build
-The following pictures shows a cheap quick and drity build using a scrap "Ricotta" cup as a case. A speaker salvaged from an old PC is used. The circuit was built on a stripboard. 
+The following pictures show a cheap quick and dirty build using a scrap "Ricotta" cup as a case. A speaker salvaged from an old PC is used. The circuit was built on a stripboard. 
 
 
 <img src="https://github.com/he-leon/car-light-reminder/assets/22372029/8f4fd831-1296-47d2-a73b-7d6a12056398" width=20% height=20%>
