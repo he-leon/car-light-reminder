@@ -15,7 +15,7 @@ Total cost: 3-5€
 - The device is designed for door switches which tie the signal to GND when the door is open.
 - DOOR_PIN has a pullup resistor which ties the GPIO high when the door is closed, preventing the input from floating.
 - Makes a somewhat pleasant bell sound by using the [Mozzi library](https://github.com/sensorium/Mozzi).
-- 
+
 # Schematic
 ![image](https://github.com/he-leon/car-light-reminder/assets/22372029/e9d1a0a5-5efc-4244-811b-d9ff3231bb5a)
 
