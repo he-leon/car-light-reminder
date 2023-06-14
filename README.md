@@ -28,10 +28,15 @@ Total cost: 3-5€
 # Example build
 The following pictures show a cheap quick and dirty build using a scrap "Ricotta" cup as a case. A speaker salvaged from an old PC is used. The circuit was built on a stripboard. 
 
-
 <img src="https://github.com/he-leon/car-light-reminder/assets/22372029/8f4fd831-1296-47d2-a73b-7d6a12056398" width=20% height=20%>
 <img src="https://github.com/he-leon/car-light-reminder/assets/22372029/af8670e5-908d-421c-9148-4a8423b006d2" width=20% height=20%>
 <img src="https://github.com/he-leon/car-light-reminder/assets/22372029/1686e6d1-49d5-4839-aab4-7c8841654158" width=20% height=20%>
+
+
+The following video shows the function of the device installed in a 1973 VW T2 van (unmute video). Door switches where not used in this case, as they need fixing. The alarms sounds when the light is on and ignition is off. In the background you can hear birds singing, if your're wondering :)
+
+
+https://github.com/he-leon/car-light-reminder/assets/22372029/975c73eb-ee59-47c9-b566-bfc0754d50dc
 
 
 # License
