@@ -33,7 +33,7 @@ The following pictures show a cheap quick and dirty build using a scrap "Ricotta
 <img src="https://github.com/he-leon/car-light-reminder/assets/22372029/1686e6d1-49d5-4839-aab4-7c8841654158" width=20% height=20%>
 
 
-The following video shows the function of the device installed in a 1973 VW T2 van (unmute video). Door switches where not used in this case, as they need fixing. The alarms sounds when the light is on and ignition is off. In the background you can hear birds singing, if your're wondering :)
+The video below shows the function of the device installed in a 1973 VW T2 van (unmute video). Door switches where not used in this case, as they need fixing. The alarms sounds when the light is on and ignition is off. In the background, unrelated to the alarm, you can hear birds singing, if your're wondering :)
 
 
 https://github.com/he-leon/car-light-reminder/assets/22372029/975c73eb-ee59-47c9-b566-bfc0754d50dc
